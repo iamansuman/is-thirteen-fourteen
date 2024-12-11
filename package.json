@@ -1,0 +1,23 @@
+{
+  "name": "is-thirteen-fourteen",
+  "version": "1.0.0",
+  "description": "Checks if a number is 13 or 14",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "thirteen",
+    "fourteen"
+  ],
+  "author": "Ansuman Dhar",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamansuman/is-thirteen-fourteen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iamansuman/is-thirteen-fourteen/issues"
+  },
+  "homepage": "https://github.com/iamansuman/is-thirteen-fourteen#readme"
+}
