@@ -1,6 +1,7 @@
-function isThirteenOrFourteen(num){
-    if (num === 13 || num === 14) return true;
-    return false;
+const isThirteenOrFourteen = (num) => (num === 13 || num === 14)
+
+const addons = {
+    isSixtynine: (num) => num === 69
 }
 
-module.exports = isThirteenOrFourteen;
+module.exports = { isThirteenOrFourteen, addons }
